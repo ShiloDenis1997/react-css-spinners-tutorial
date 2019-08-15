@@ -1,0 +1,20 @@
+{
+  "name": "react-css-spinners-tutorial",
+  "version": "1.0.0",
+  "description": "code realm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShiloDenis1997/react-css-spinners-tutorial.git"
+  },
+  "keywords": ["react", "css", "spinners"],
+  "author": "Dzianis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShiloDenis1997/react-css-spinners-tutorial/issues"
+  },
+  "homepage": "https://github.com/ShiloDenis1997/react-css-spinners-tutorial#readme"
+}
